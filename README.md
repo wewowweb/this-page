@@ -7,7 +7,7 @@ Add your own `$this->page` page in [README.md](https://github.com/wewowweb/this-
 
 # Awesome Uses
 
-* [Gal Jakič](https://gal.jakic.dev/this-page) - Slovenia (:slovenia:) - a web developer turned project manager of fast-growing companies.
+* [Gal Jakič](https://gal.jakic.dev/this-page) - Slovenia (🇸🇮) - a web developer turned project manager of fast-growing companies.
 
 # Contribution guide
 ## I want to showcase my website. How do I do that?
